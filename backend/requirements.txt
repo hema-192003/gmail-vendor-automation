@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+beautifulsoup4
+pandas
+openpyxl
+python-multipart
