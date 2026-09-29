@@ -1,1 +1,1 @@
-backend/main.py
+print("Gmail Vendor Automation Backend")
